@@ -1,0 +1,30 @@
+.heading
+{
+width:100%;
+font-size:24px;
+margin:0px;
+box-shadow:10px 10px 18px red
+}
+.note
+{
+font-size:15px;
+color:green
+}
+.footer
+{
+width:100%;
+font-size:24px;
+color:slategray;
+box-shadow:10px 10px 18px orange;
+background-color:mediumseagreen;
+position:fixed;
+line-height:3;
+text-align:center;
+bottom:0;
+}
+canvas
+{
+border:5px solid darkgray;
+border-radius:10px;
+box-shadow:10 10 18 peru;
+}
